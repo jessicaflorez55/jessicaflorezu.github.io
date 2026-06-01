@@ -1,7 +1,9 @@
 # jessica-florez-portfolio
 ## 👋 Hola, soy Jessica Florez
 
-Profesional en Administración de Empresas con experiencia en operaciones y marketing, interesada en el análisis de negocio y la toma de decisiones basada en información.
+Business Analytics con experiencia en operaciones, marketing, e-commerce y análisis de información orientado a mejorar la toma de decisiones. He contribuido a incrementar la visibilidad de marcas, optimizar la gestión de información operativa y apoyar la mejora de procesos comerciales mediante el análisis de datos de clientes y desempeño de negocio.
+A lo largo de mi experiencia he desarrollado una forma de trabajo enfocada en la organización, el aprendizaje rápido y la adaptación a distintos entornos operativos y digitales. Me caracterizo por analizar situaciones con criterio práctico, identificar oportunidades de mejora en procesos y proponer soluciones que faciliten la eficiencia y la claridad en la ejecución del trabajo.
+
 A lo largo de mis proyectos he trabajado en la evaluación de estrategias comerciales, comportamiento de clientes, rentabilidad y desempeño de productos, apoyándome en herramientas como SQL, Python y Power BI para transformar datos en información que apoye la toma de decisiones y contribuya al crecimiento y la eficiencia de las organizaciones.
 
 ### Herramientas y Tecnologías**
