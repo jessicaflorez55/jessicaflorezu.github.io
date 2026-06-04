@@ -40,7 +40,7 @@ Análisis end-to-end para evaluar el desempeño de un servicio de suscripción m
 ### Tecnologías
 Python • SQL • Power BI • Estadística 
 
-🔗 Ver Proyecto :   https://github.com/jessicaflorez55/jessicaflorez.github.io  
+🔗 Ver Proyecto :  https://github.com/jessicaflorez55/jessicaflorez.github.io  
 
 ## 🏢 Dashboard Ejecutivo para Análisis Comercial Inmobiliario
 
