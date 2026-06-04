@@ -1,4 +1,4 @@
-# jessica-florez-portfolio
+https://github.com/account 
 ## 👋 Hola, soy Jessica Florez
 
 Business Analytics con experiencia en operaciones, marketing, e-commerce y análisis de información orientado a mejorar la toma de decisiones. He contribuido a incrementar la visibilidad de marcas, optimizar la gestión de información operativa y apoyar la mejora de procesos comerciales mediante el análisis de datos de clientes y desempeño de negocio.
